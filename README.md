@@ -1,66 +1,4 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
-# Date:25/05/2026
-# Reg. No:212223220079
-
-## Aim:
-To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
-
-# Tools for Image Generation
-DALL·E — Generates realistic and highly detailed images from textual prompts.
-Stable Diffusion — Open-source AI image generation model with customizable outputs.
-MidJourney — Produces artistic and visually rich AI-generated images.
-
-# Procedure
-Step 1 — Analyze the Given Image
-
-Observe the image carefully and identify:
-
-Main subjects and objects
-Colors and lighting
-Background and environment
-Camera angle and composition
-Texture and artistic style
-Mood and atmosphere
-
-Step 2 — Write the Basic Prompt
-Create a short and simple description of the scene.
-
-Step 3 — Refine with More Details
-Add colors, lighting conditions, environment, and mood.
-
-Step 4 — Add Artistic Style and Composition
-Include style references, texture details, camera perspective, and visual depth.
-
-Step 5 — Generate and Compare
-Generate the image using AI tools and compare it with the original image for similarity in:
-Composition
-Lighting
-Colors
-Style
-Texture
-Subject placement
-# original image:
-<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/e2e9f78f-957d-4111-bbf9-44a4c0aea24d" />
-
-# Basic Prompt
-
-“A mountain landscape with trees and a lake reflection.”
-<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/d9a3304d-9f4b-4d63-8437-6dbe8e00e4fc" />
-
-# Intermediate Prompt
-
-“A beautiful mountain landscape during daytime with snow-covered peaks, dense green pine trees, and a calm lake reflecting the mountains and sky under bright natural sunlight.”
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/22da0291-2595-48eb-94c2-bb32ddbacce7" />
-
-# Advanced Prompt
-“A highly detailed natural mountain landscape during a bright sunny day featuring rugged snow-covered mountain peaks under a vivid blue sky with soft wispy clouds. Dense green pine forests surround a calm mirror-like lake perfectly reflecting the mountains, trees, and sky. The foreground contains lush green grass and clear water reflections with realistic ripples. Warm natural sunlight creates vibrant colors, crisp highlights, and soft shadows across the entire scene. Ultra-realistic landscape photography style with cinematic composition, sharp textures, high resolution, and peaceful atmosphere.”
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ec1f9af-75c5-4d06-aa7e-ada7166f3756" />
-
-## Conclusion:
-By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
-
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date :
 # Reg. No. 
@@ -110,9 +48,25 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+# Tools for Image Generation
+DALL·E — Generates realistic and highly detailed images from textual prompts.
+Stable Diffusion — Open-source AI image generation model with customizable outputs.
+MidJourney — Produces artistic and visually rich AI-generated images.
+# original image:
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/e2e9f78f-957d-4111-bbf9-44a4c0aea24d" />
 
+# Basic Prompt
 
+“A mountain landscape with trees and a lake reflection.”
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/d9a3304d-9f4b-4d63-8437-6dbe8e00e4fc" />
 
+# Intermediate Prompt
 
+“A beautiful mountain landscape during daytime with snow-covered peaks, dense green pine trees, and a calm lake reflecting the mountains and sky under bright natural sunlight.”
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/22da0291-2595-48eb-94c2-bb32ddbacce7" />
+
+# Advanced Prompt
+“A highly detailed natural mountain landscape during a bright sunny day featuring rugged snow-covered mountain peaks under a vivid blue sky with soft wispy clouds. Dense green pine forests surround a calm mirror-like lake perfectly reflecting the mountains, trees, and sky. The foreground contains lush green grass and clear water reflections with realistic ripples. Warm natural sunlight creates vibrant colors, crisp highlights, and soft shadows across the entire scene. Ultra-realistic landscape photography style with cinematic composition, sharp textures, high resolution, and peaceful atmosphere.”
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ec1f9af-75c5-4d06-aa7e-ada7166f3756" />
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
